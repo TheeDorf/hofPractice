@@ -67,3 +67,25 @@ pokemon.forEach ((pokemon)=>{
 nums.reduce(function red(){
 
 })
+
+
+
+
+// map example
+
+// const onlyNameAndType = pokemon.map((pokemon)=>{
+//    return {name: pokemon.name, type: pokemon.type}
+// })
+// console.log(onlyNameAndType)
+
+
+
+// let onlyNameAndType = [];
+
+// pokemon.forEach((pokemon)=>{
+//     onlyNameAndType.push({(pokeName:pokemon.name, PokeType:
+//     pokemon.type)})
+// });
+
+
+// console.log(onlyNamesAndTypes);
